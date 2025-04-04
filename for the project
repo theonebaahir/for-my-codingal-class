@@ -1,0 +1,5 @@
+a = 5.5
+print("type of a" , type(a))
+w = ("congra")
+e = ("ratulations")
+print(w+e)
